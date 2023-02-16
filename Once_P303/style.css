@@ -1,0 +1,20 @@
+
+body {
+    font-family: Arial;
+    background-color: #f2f2f2;
+    padding: 20px;
+    }
+
+form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #bbbbbb;
+    background-color: #ffffff;
+    }
+
+input {
+    width: 100%;
+    padding: 5px;
+    margin: 10px 0;
+    }
